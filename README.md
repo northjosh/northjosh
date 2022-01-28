@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @northjosh
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python and Web Development
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 - I'm a noob.
